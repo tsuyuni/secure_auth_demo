@@ -1,0 +1,11 @@
+# common
+node_modules/
+.env*
+.eslintrc*
+.prettierrc*
+
+# frontend
+.next/
+
+# backend
+dist/
